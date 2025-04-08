@@ -11,5 +11,6 @@ variable "argocd_sso_client_secret" {
 }
 
 variable "argocd_bootstrap_url" {
+  type        = string
   description = "The Git repo URL for the ArgoCD bootstrap"
 }
