@@ -6,8 +6,8 @@ terraform {
     }
     null = {
       source  = "hashicorp/null"
-      version = "3.2.4-alpha.2"
+      version = "~> 3.2"
     }
   }
-  required_version = ">= 1.1.9"
+  required_version = ">= 1.3"
 }
