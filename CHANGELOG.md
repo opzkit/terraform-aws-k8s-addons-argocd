@@ -1,5 +1,24 @@
 # Changelog
 
+## [0.1.1](https://github.com/opzkit/terraform-aws-k8s-addons-argocd/compare/v0.1.0...v0.1.1) (2026-04-20)
+
+
+### Miscellaneous Chores
+
+* **deps:** update actions/create-github-app-token action to v3 ([#102](https://github.com/opzkit/terraform-aws-k8s-addons-argocd/issues/102)) ([7a35349](https://github.com/opzkit/terraform-aws-k8s-addons-argocd/commit/7a35349024b614d5e5d4e4af0bcec08498611b0a))
+* **deps:** update actions/create-github-app-token digest to 1b10c78 ([#108](https://github.com/opzkit/terraform-aws-k8s-addons-argocd/issues/108)) ([3a36777](https://github.com/opzkit/terraform-aws-k8s-addons-argocd/commit/3a367777d611972d3849f55ff5142747bfc9d2ba))
+* **deps:** update actions/create-github-app-token digest to 7bd0371 ([#107](https://github.com/opzkit/terraform-aws-k8s-addons-argocd/issues/107)) ([e58c3ce](https://github.com/opzkit/terraform-aws-k8s-addons-argocd/commit/e58c3ce3548a177ef137bb66bb1c0219f756dc35))
+* **deps:** update actions/create-github-app-token digest to fee1f7d ([#101](https://github.com/opzkit/terraform-aws-k8s-addons-argocd/issues/101)) ([a87c0a3](https://github.com/opzkit/terraform-aws-k8s-addons-argocd/commit/a87c0a3c03bf6ea2c4d86b43d8cc1478d9f0157b))
+* **deps:** update googleapis/release-please-action digest to 5c625bf ([#110](https://github.com/opzkit/terraform-aws-k8s-addons-argocd/issues/110)) ([3f45813](https://github.com/opzkit/terraform-aws-k8s-addons-argocd/commit/3f458130225ad90863cf4541a3561457b5cd8a61))
+* **deps:** update hashicorp/setup-terraform action to v4 ([#100](https://github.com/opzkit/terraform-aws-k8s-addons-argocd/issues/100)) ([c6ed495](https://github.com/opzkit/terraform-aws-k8s-addons-argocd/commit/c6ed495c73eb4d85e9a2284ccb78d86325557eae))
+* **deps:** update pre-commit hook renovatebot/pre-commit-hooks to v43.104.4 ([#106](https://github.com/opzkit/terraform-aws-k8s-addons-argocd/issues/106)) ([767eb39](https://github.com/opzkit/terraform-aws-k8s-addons-argocd/commit/767eb39c16b12edb405e5cde5aada08a3149b812))
+* **deps:** update pre-commit hook renovatebot/pre-commit-hooks to v43.111.0 ([#109](https://github.com/opzkit/terraform-aws-k8s-addons-argocd/issues/109)) ([7674f50](https://github.com/opzkit/terraform-aws-k8s-addons-argocd/commit/7674f507ee5060bb79ea6c130dd9d61cdc400425))
+* **deps:** update pre-commit hook renovatebot/pre-commit-hooks to v43.126.0 ([#111](https://github.com/opzkit/terraform-aws-k8s-addons-argocd/issues/111)) ([e7f5440](https://github.com/opzkit/terraform-aws-k8s-addons-argocd/commit/e7f54403e21c2a6f5091b3d1fc5b74d720a25b6a))
+* **deps:** update pre-commit hook renovatebot/pre-commit-hooks to v43.31.1 ([#98](https://github.com/opzkit/terraform-aws-k8s-addons-argocd/issues/98)) ([e3b92cd](https://github.com/opzkit/terraform-aws-k8s-addons-argocd/commit/e3b92cd48aa5ec111beacd131ac81a6e2497ab5f))
+* **deps:** update pre-commit hook renovatebot/pre-commit-hooks to v43.86.0 ([#104](https://github.com/opzkit/terraform-aws-k8s-addons-argocd/issues/104)) ([33be7fd](https://github.com/opzkit/terraform-aws-k8s-addons-argocd/commit/33be7fd648a014780c3d5faa1a92b7a05b92dbc6))
+* **deps:** update pre-commit hook renovatebot/pre-commit-hooks to v43.99.1 ([#105](https://github.com/opzkit/terraform-aws-k8s-addons-argocd/issues/105)) ([f7ebdbf](https://github.com/opzkit/terraform-aws-k8s-addons-argocd/commit/f7ebdbf22d709177c384aec31a5f7b7e790e158c))
+* **deps:** update terraform-linters/setup-tflint action to v6.2.2 ([#103](https://github.com/opzkit/terraform-aws-k8s-addons-argocd/issues/103)) ([e9efa8f](https://github.com/opzkit/terraform-aws-k8s-addons-argocd/commit/e9efa8f4916186076abcd0749ec31cc061f021fe))
+
 ## [0.1.0](https://github.com/opzkit/terraform-aws-k8s-addons-argocd/compare/v0.0.1...v0.1.0) (2026-02-18)
 
 
